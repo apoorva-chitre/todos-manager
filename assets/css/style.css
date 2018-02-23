@@ -1,0 +1,35 @@
+html,body{
+
+		font-size: 16px;
+		background-color: #ccc;
+		height: 100%;
+
+	}
+
+.fill {
+
+		background-color: #f8f8ff;
+		min-height: 100%;
+
+}
+
+
+header {
+
+	min-height: 2rem;
+}
+
+		
+header h1 {
+
+		color: #b3b3b3;
+		margin: 0 auto;
+		text-align: center;
+}
+
+.new {
+
+	margin: 0 0.5rem 0.5rem 0;
+	float: right;
+
+}
