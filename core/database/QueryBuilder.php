@@ -20,4 +20,4 @@ class QueryBuilder {
 
     	return $sth->fetchAll(PDO::FETCH_CLASS);
 	}
-} 
+}

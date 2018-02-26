@@ -20,11 +20,18 @@ header {
 }
 
 		
-header h1 {
+header h1{
 
 		color: #b3b3b3;
 		margin: 0 auto;
 		text-align: center;
+}
+
+h4 {
+
+	color: #333;
+	margin: 0 auto;
+	text-align: center;
 }
 
 .new {
